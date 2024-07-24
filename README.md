@@ -9,3 +9,6 @@ This function takes two numbers as input and returns their sum.
     Returns:
     int or float: The sum of the two numbers.
 Code to multiply two numbers
+
+
+# This Divison Function gets two number as input and retlurns the result 
