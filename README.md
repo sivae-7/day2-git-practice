@@ -1,2 +1,2 @@
 # day2-git-practice
-# Code to multiply two codes
+# Code to multiply two numbers
